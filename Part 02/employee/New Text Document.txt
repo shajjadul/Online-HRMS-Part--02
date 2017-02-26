@@ -1,0 +1,4 @@
+else if($row1[8]==0)
+	    {
+		       exit(header("location:index.php?mess=Sorry! Your email varification is not completed."));
+		} 
